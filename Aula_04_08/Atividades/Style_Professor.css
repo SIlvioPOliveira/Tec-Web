@@ -1,0 +1,61 @@
+
+body {
+    font-family: Arial, sans-serif; /* Define a fonte */
+    color:#000000;
+    margin: 0;
+    padding: 0;
+    text-align: center; /* Alinha o conteúdo ao centro */
+    background-color: #ffffff; /* Cor de fundo */
+    }
+    /* Estilos para o título do formulário */
+    h1 {
+    margin-bottom: 20px; /* Adiciona margem inferior para separar do
+    formulário */
+    }
+    /* Estilos para o contêiner do formulário */
+    form {
+    width: 300px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    border-radius: 5px;
+    margin: 0 auto; /* Centraliza o formulário horizontalmente */
+    }
+    /* Estilos para rótulos de campos */
+    label {
+    display: block;
+    margin-bottom: 5px;
+    }
+    /* Estilos para campos de entrada de texto, e-mail e senha */
+    input[type="text"],
+    input[type="email"],
+    input[type="tel"],
+    input[type="password"] {
+    width: calc(100% - 12px);
+    padding: 6px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    }
+    /* Estilos para o botão de envio do formulário */
+    input[type="submit"] {
+    width: 100%;
+    padding: 8px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    }
+    /* Estilos para o botão de envio do formulário no estado de hover */
+    input[type="submit"]:hover {
+    background-color: #0056b3;
+    }
+
+    select {
+        width: 100% ;
+        padding: 6px;
+        margin-bottom: 10px;
+        border: 1px solid #ccc;
+        border-radius: 3px;
+      }

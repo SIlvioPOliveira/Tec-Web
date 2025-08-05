@@ -1,0 +1,14 @@
+body {
+    background-color: #FFCC66;
+    background-image: url('foto.jpg');
+    background-repeat: repeat;
+    background-attachment: scroll;
+}
+
+h1{
+    font-size: 250%;
+    font-family: arial, verdama , sams-serif;
+    font-style: bold;
+    color:#000000;
+    background-color: #ffffff;
+}
