@@ -1,0 +1,41 @@
+/* Reset básico */
+body, h1, p {
+    margin: 0 ;
+    padding: 0;
+    width: 1000px;
+}
+
+/* Cabeçalho azul */
+.Azul {
+    background-color: blue;
+    color: black; /* cor do texto */
+    padding: 5px;
+}
+
+/* Separador rosa */
+.Rosa{
+    height: 16px;
+    background-color: pink;
+    color: black;
+    padding: 5px;
+}
+
+.Branco{
+    height: 20px;
+    background-color: #ffffff;
+}
+/* Corpo cinza claro */
+.Cinza {
+    height: 300px;
+    background-color: #eeeeee;
+    color: black;
+   
+}
+
+/* Rodapé cinza escuro */
+.CinzaEscuro {
+    background-color: #666666;
+    color: white;
+    padding: 10px;
+    text-align: left;
+}

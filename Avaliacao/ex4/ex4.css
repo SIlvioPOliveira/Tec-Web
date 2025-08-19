@@ -1,0 +1,25 @@
+
+body{
+    margin: 0;
+    font-family:  Arial, Helvetica, sans-serif;
+    width: 1400px;
+}
+
+.CinzaEscuro {
+    background-color: #2b2b2b;
+    color: white;
+    clear: both;
+    text-align: left;
+    padding: 10px;
+    font-size: 11px;
+    text-align: center;
+}
+
+.Black{
+    height: 1px;
+    background-color: rgb(187, 187, 187);
+}
+
+.Invisivel{
+    height: 30px;
+}
